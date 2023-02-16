@@ -5,3 +5,4 @@ Getting an executable file
 Using the puts function
 Using printf
 Printing the sizes of functions
+PRinting intel syntax
