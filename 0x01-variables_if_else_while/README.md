@@ -5,3 +5,4 @@ Printing the letters of the alphabet in lowercase and uppercase
 Printing the alphabets except e and q
 Printing numbers 0 - 9
 Printing numbers 0 - 9
+Printing the alphabet in reverse
