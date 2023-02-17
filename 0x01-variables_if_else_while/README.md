@@ -6,3 +6,4 @@ Printing the alphabets except e and q
 Printing numbers 0 - 9
 Printing numbers 0 - 9
 Printing the alphabet in reverse
+Printing base 16 in lowercase
