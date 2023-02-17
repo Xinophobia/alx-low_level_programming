@@ -5,12 +5,14 @@
  */
 int main(void)
 {
-	char num[10] = "0123456789";
 	int i;
 
-	for (i = 0; i < 10; i++)
+	i = 0;
+
+	while (i < 10)
 	{
-		putchar(num[i]);
+		putchar(i + 0);
+		i++;
 	}
 	putchar('\n');
 	return (0);
