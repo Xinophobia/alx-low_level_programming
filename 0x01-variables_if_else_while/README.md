@@ -9,3 +9,4 @@ Printing the alphabet in reverse
 Printing base 16 in lowercase
 Printing all possible combos of single digits
 Printing all possible combos of two digits
+Printing all possible combos of two two-digits
