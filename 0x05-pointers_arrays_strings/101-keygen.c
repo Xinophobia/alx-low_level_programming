@@ -1,4 +1,6 @@
 #include <time.h>
+#include <stdio.h>
+#include <stdlib.h>
 /**
  * main - Generates random passwords
  * Return: 0
@@ -9,7 +11,7 @@ int main(void)
 	int i, sum, n;
 
 	sum = 0;
-	rand(time(NULL));
+	srand(time(NULL));
 
 	for (i = 0; i < 100; i++)
 	{
